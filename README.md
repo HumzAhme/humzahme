@@ -47,7 +47,7 @@ I'm a passionate SOFTWARE ENGINEER with a love for CYBER SECURITY & AI. I enjoy 
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/humza-a-ahmed)
-<!-- - [Twitter](https://twitter.com/[YourTwitterHandle]) -->
+- [Twitter](https://twitter.com/AnhPhuNguyen1) 
 - [Personal Website](https://github.com/HumzAhme) 
 
 ### 🎨 Projects
